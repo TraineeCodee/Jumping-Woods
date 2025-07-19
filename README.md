@@ -21,7 +21,7 @@ https://github.com/TraineeCodee/Jumping-Woods
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/jumping-woods.git
+   git clone https://github.com/TraineeCodee/Jumping-Woods.git
 2. Open the project in Unity Hub.
 
 3.Press Play to run it in the editor or build for your platform (PC, Android, etc.).
